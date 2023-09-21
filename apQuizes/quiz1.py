@@ -30,7 +30,7 @@ numberOfApples < numberOfOranges
 Me = 100.0
 family member = 50.00
 friend = 35.50
-
+total_amount = 185.50
 print(Me + family member + friend)
 
 # 6. Create a variable that uses the input function and then print that variable. Your variable 
@@ -49,10 +49,10 @@ Age = 34
 Allergy = no peanuts
 favorite food = mac and cheese
 
-print(name)
-print(34)
-print(allergy)
-print(favorite food)
+print = input( "my name is " name)
+print = input( "My age " 4)
+print = input(Allergy)
+print = input(" My favorite food is" favorite food)
 
 
 # 8. You have been given a job to create a program for a sandwich shop. The sandwich shop
