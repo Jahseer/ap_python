@@ -1,3 +1,6 @@
+
+
+
 #convert the following datatypes into floats.
 12
 100
