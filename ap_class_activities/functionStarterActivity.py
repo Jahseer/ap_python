@@ -2,6 +2,14 @@
 
  ('A function is a block of code which only runs when it is called')
 
+def starterFunction():
+    print("jAHSEER") # instruction 1
+    print(2+2) # insturction 2
+    print("all done the program") # instruction 3
+
+
+
+
 # 2. What is are function parameters and arguments and describe
 # the difference between the 2. 
 
@@ -13,19 +21,18 @@
 # 3. write a function that will print out a welcome message
 # that includes a users name. You will need to use parameters and arguments
 
+def WELCOME(): 
+    print("Welcome to Python Programming") 
+    WELCOME() 
 
-def hello(): Jahseer = str(input("Enter your name: ")) if Jahseer: print ("Hello " + str(Jahseer)) else: print("Hello World") return hello()
+
+
 
 
 # 4. Write a function that will do a calculation that takes 3 parameters.
 # Your function can do any of the arithmatic operators (add, subtract, multiply, divide)\
 
-a = 4 * 8
-b = 3 + 3
-c = 7 - 3
-print(a)
-print(b)
-print(c)
+
 
 
 # 5. Write a function that will output a message to a user, telling them
@@ -34,11 +41,3 @@ print(c)
 # be real, user data- not hard coded data.
 
 
-A = coding_class
-B = next_class
-
-next_class = reading
-
-print = next_class
-
- # i don't think any of this is right i just don't know how to do it
