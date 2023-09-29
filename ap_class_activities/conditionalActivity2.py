@@ -9,13 +9,13 @@
 # your function should also alow the user to put in the time. The time should be 
 # formatted as a float. 
 
-AP_python = 11.30
-intro_python = 1.00
+def check_time(current_time):
+    if current_time > 11.30:
+        print('time to go. have a good weekend.')
+    else:
+        print('class is still in session.')
 
-if AP_python > intro_python:
-    print("time to go class is over")
-else:
-    print("ap_python class is still in session")
+    check_time(10.10)
 
 
 # 2. Write a function that uses a conditional statement. 
@@ -26,7 +26,25 @@ else:
 # ELSE, if it is none of the animal sounds the function should return a message saying it doesn't 
 # know what the animal is. 
 
-def 
+def pet_noise():
+    noise = input('type in animal noise.')
+    if noise="woof"
+    print('you have adog')
+elif noise == "noise"
+print('you cat')
+
+elif noise == "quack quack"
+print('you have a duck')
+
+    else:
+
+print('i don't know that animal')
+      
+
+
+pet_noise('some data')
+
+
 
 # 3. Write a function that will take in a user name and height as parameters. 
 # Your function should evaluate and determine if the user is tall in enough to get on a roller coster.

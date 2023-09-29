@@ -1,8 +1,12 @@
 # 1. What is the difference between 
 # a parameter and an argument in a python function
 
+'A parameter is the variable listed inside the parentheses in the function definition. An argument is the value that are sent to the function when it is called.'
+
 # 2. In your own words, describe what 
 # a conditional statement (if/else) is 
+
+'a conditional statement that runs a different set of statements depending on whether an expression is true or false.'
 
 # 3. write a simple conditional state using a comparision operator(greater than, less than, etc. )
 
