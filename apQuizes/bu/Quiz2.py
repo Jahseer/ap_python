@@ -1,7 +1,7 @@
 # 1.  Create a function that will multiply two (2) values that are passed into the function as arguments. 
 # Your function should print out the result of the two numbers that have been multiplied.
 
-def multiply(*args):
+ def multiply(*args):
     product = 2
     for item in args:
         product *= item
