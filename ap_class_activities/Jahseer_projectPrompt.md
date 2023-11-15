@@ -14,3 +14,13 @@ Who is this program designed for? Please describe the user who will be useing th
 The general user for this program are students who...(be descriptive)
 
 This program and designed for students who like guessing games all you have to do is guess the food which is mac and cheese
+
+
+
+My program is called def function and its about guessing what the food is 
+There are several problems my program aims to solve by gueesing the food i inputed
+def function will solve the problems listed above in several ways by printing the food word i put it in it and some other ways that you can do it is use other data types
+There are several programs that inspired my program  they are different def functions that i know and that i used the inspiried me
+This program and designed for students who like guessing games all you have to do is guess the food which is mac and cheese
+this is how my program would go.the user would input a question and it outputs a yes or no if the answer is correct or wrong
+
