@@ -1,11 +1,11 @@
 1. How important is it for you to have a large social media following and or a lot of likes/views on your social media account?
 
-answer = Its important because what if a have no friends or a few friends it would be great to have fans that like you videos that your making
+answer = Its important because what if a have no friends or a few friends. it would be great to have fans that like you videos that your making. And you could see you progression get money
 
 2. Have you ever purchased somthing becuase you saw it on social media? If yes, what was it and why
 did you purhcase it?
 
-answer = no i did not but i wanted to buy something i saw because it looked cool
+answer = no i did not but i wanted to buy something i saw because it looked cool . I wanted to get this slushie machine that could make a slushie in a minute
 
 3. In your own words, what are some of the best things about social media for you?
 
