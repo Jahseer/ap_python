@@ -8,9 +8,8 @@ def display_hint(movie, guessed_letters):
     hint = ""
     for letter in movie:
         if letter.lower() in guessed_letters or letter == " ":
-            hint += letter
-        else:
-            hint += "_"
+            hint += letter           hint += "_"
+    
     return hint
 
 def movie_guessing_game():
